@@ -5,7 +5,7 @@ components:
     -
         kind: Application
         name: api
-        gitRepo: 'https://github.com/bns-hack/mfmok_my-templates.git'
+        gitRepo: 'https://github.com/bunnyshell/templates.git'
         gitBranch: main
         gitApplicationPath: components/express-rest-api
         dockerCompose:
@@ -45,7 +45,7 @@ components:
     -
         kind: Application
         name: app
-        gitRepo: 'https://github.com/mfmok/my-templates.git'
+        gitRepo: 'https://github.com/bns-hack/mfmok_my-templates.git'
         gitBranch: main
         gitApplicationPath: components/material-tailwind-dashboard-react
         dockerCompose:
