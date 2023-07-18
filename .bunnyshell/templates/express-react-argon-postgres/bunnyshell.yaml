@@ -45,7 +45,7 @@ components:
     -
         kind: Application
         name: app
-        gitRepo: 'https://github.com/mfmok/my-templates.git'
+        gitRepo: 'https://github.com/bns-hack/mfmok_my-template.git'
         gitBranch: main
         gitApplicationPath: components/argon-dashboard-material-ui-main
         dockerCompose:
